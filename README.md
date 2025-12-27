@@ -46,7 +46,9 @@ WAVEFORM :
 
 TABULAR COLUMN:
 <img width="603" height="181" alt="Screenshot 2025-12-27 094052" src="https://github.com/user-attachments/assets/81f7a114-de52-449c-9537-0f3df7e15501" />
+<br>
 Full wave rectifier:
+<br>
 <img width="1030" height="822" alt="Screenshot 2025-12-27 094239" src="https://github.com/user-attachments/assets/84e9b1ad-8fc9-44d7-918e-2f88f468f5b9" />
 
 
